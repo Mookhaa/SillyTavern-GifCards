@@ -1,0 +1,12 @@
+{
+    "display_name": "GIF Cards",
+    "loading_order": 50,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "YOUR_GITHUB_USER",
+    "version": "1.0.0",
+    "homePage": "https://github.com/YOUR_GITHUB_USER/SillyTavern-GifCards",
+    "auto_update": true
+}
